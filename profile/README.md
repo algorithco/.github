@@ -2,7 +2,7 @@
 
   <img src="https://avatars.githubusercontent.com/u/308388902?s=200&v=4" width="96" alt="Algorith logo" />
 
-  # Algorith
+  # Algorithco
 
   **Builders of future technology**
 
