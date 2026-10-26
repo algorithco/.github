@@ -4,7 +4,7 @@
 
   # Algorithco
 
-  **Builders of future technology**
+  **Building the Future with AI.**
 
   *Telegram-native engineering · Web3 infrastructure · Developer tooling*
 
